@@ -4,9 +4,5 @@
 
 def roll
   prng = Random.new
-  prng.rand(1..6)
-end
-
-def roll_array
-  
+  prng.rand(1,2,3,4,5,6)
 end
