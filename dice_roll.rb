@@ -6,3 +6,7 @@ def roll
   prng = Random.new
   prng.rand(1..6)
 end
+
+def roll_array
+  
+end
